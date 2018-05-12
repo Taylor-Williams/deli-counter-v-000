@@ -13,6 +13,7 @@ def line(katz_deli)
       print "#{index}. #{name} "
     end
     puts ""
+  end
 end
 
 def now_serving(katz_deli)
